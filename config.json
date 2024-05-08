@@ -2,5 +2,20 @@
     "title":"Kinpoe.Ray",
     "subTitle":"产品经理、设计师，关注产品、人工智能。",
     "avatarUrl":"https://pbs.twimg.com/profile_images/1765500796425388032/IWGHvpK2_400x400.jpg",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "email":"kinpoe.ray@gmail.com",
+    "startSite":"05/08/2024",
+    "onePageListNum":10,
+    "singlePage":["about"],
+    "commentLabelColor":"#006b75",
+    "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
+    "i18n":"CN",
+    "UTC":8,
+    "themeMode":"manual",
+    "dayTheme":"light",
+    "nightTheme":"github-light",
+    "urlMode":"pinyin",
+    "showPostSource":1,
+    "rssSplit":"sentence",
+    "bottomText":"转载请注明出处，谢谢"
 }
