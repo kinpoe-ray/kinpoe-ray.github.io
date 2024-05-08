@@ -1,6 +1,32 @@
 {
-    "title":"Blog Title",
-    "subTitle":"Blog description",
+    "title":"Kinpoe.Ray",
+    "subTitle":"产品经理、设计师，关注产品、人工智能。
+
+Product Manager, Designer,
+
+Focus on Product, Artificial Intelligence.",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last"，
+    "displayTitle":"Kinpoe.Ray",
+    "homeUrl":"kinpoe-ray.io/",
+    "email":"kinpoe.ray@gmail.com",
+    "startSite":"05/08/2024",
+    "filingNum":"",
+    "onePageListNum":10,
+    "singlePage":["about"],
+    "iconList":{""},
+    "exlink":{""},
+    "commentLabelColor":"#006b75",
+    "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
+    "i18n":"CN",
+    "UTC":8,
+    "themeMode":"manual",
+    "dayTheme":"light",
+    "nightTheme":"github-light",
+    "urlMode":"pinyin",
+    "style":"<style>#postBody{font-size:20px}</style>",
+    "script":"<script async src='//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'></script>",
+    "showPostSource":1,
+    "rssSplit":"sentence",
+    "bottomText":"转载请注明出处，谢谢",
 }
