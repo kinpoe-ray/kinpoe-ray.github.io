@@ -1,6 +1,10 @@
 {
     "title":"Kinpoe.Ray",
-    "subTitle":"产品经理、设计师，关注产品、人工智能。",
+    "subTitle":"产品经理、设计师，关注产品、人工智能。
+
+Product Manager, Designer,
+
+Focus on Product, Artificial Intelligence.",
     "avatarUrl":"https://pbs.twimg.com/profile_images/1765500796425388032/IWGHvpK2_400x400.jpg",
     "GMEEK_VERSION":"last",
     "email":"kinpoe.ray@gmail.com",
@@ -15,6 +19,8 @@
     "dayTheme":"light",
     "nightTheme":"github-light",
     "urlMode":"pinyin",
+    "style":"<style>#postBody{font-size:20px}</style>",
+    "script":"<script async src='//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'></script>",
     "showPostSource":1,
     "rssSplit":"sentence",
     "bottomText":"转载请注明出处，谢谢"
